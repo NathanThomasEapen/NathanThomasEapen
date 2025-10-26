@@ -1,5 +1,5 @@
 ## Nathan Thomas Eapen
-Hello everyone, welcome to my website! It expresses my hobbies, interests, goals and most of all- my personality :)
+Hello everyone, welcome to my website! It expresses my hobbies, interests, goals and most importantly- my personality :)
 
 <!--
 **NathanThomasEapen/NathanThomasEapen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
